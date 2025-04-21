@@ -1,1 +1,0 @@
-export default function ChangeBoardIndex() { return <h1>📋 Kundenliste</h1>; }
